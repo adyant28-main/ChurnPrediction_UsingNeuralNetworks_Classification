@@ -262,7 +262,7 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-**Aditya**
+**Adyant**
 
 GitHub: https://github.com/adyant28-main
 
